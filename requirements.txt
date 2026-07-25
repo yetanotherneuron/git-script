@@ -1,0 +1,2 @@
+# Python 3.10+ stdlib only — no third-party packages.
+# Optional build: pip install pyinstaller

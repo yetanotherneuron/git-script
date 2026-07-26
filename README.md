@@ -1,4 +1,4 @@
-# git-script
+# Git Script
 
 Interactive arrow-key terminal menu to manage your GitHub repositories.
 

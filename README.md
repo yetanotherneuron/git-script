@@ -2,6 +2,18 @@
 
 Interactive arrow-key terminal menu to manage your GitHub repositories.
 
+## Preview
+
+![Login](preview/1.png)
+
+![Main menu](preview/2.png)
+
+![List repos](preview/3.png)
+
+![Select repos](preview/4.png)
+
+![Actions](preview/5.png)
+
 ## Prerequisites
 
 - Python 3.10+
